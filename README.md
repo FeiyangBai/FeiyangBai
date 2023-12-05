@@ -1,1 +1,1 @@
-ViT in Image classification
+ViT in Image classification in Additive Manufacturing
